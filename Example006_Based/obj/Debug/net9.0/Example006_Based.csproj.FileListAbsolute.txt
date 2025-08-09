@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example006_Based/bin/Debug/net9.0/Example006_Based
+/Users/romanas/Desktop/examples/Example006_Based/bin/Debug/net9.0/Example006_Based.deps.json
+/Users/romanas/Desktop/examples/Example006_Based/bin/Debug/net9.0/Example006_Based.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example006_Based/bin/Debug/net9.0/Example006_Based.dll
+/Users/romanas/Desktop/examples/Example006_Based/bin/Debug/net9.0/Example006_Based.pdb
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.sourcelink.json
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.dll
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/refint/Example006_Based.dll
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.pdb
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/Example006_Based.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example006_Based/obj/Debug/net9.0/ref/Example006_Based.dll
