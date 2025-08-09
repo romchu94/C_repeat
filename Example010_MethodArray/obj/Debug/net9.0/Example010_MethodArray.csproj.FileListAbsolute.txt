@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.sourcelink.json
+/Users/romanas/Desktop/examples/Example010_MethodArray/bin/Debug/net9.0/Example010_MethodArray
+/Users/romanas/Desktop/examples/Example010_MethodArray/bin/Debug/net9.0/Example010_MethodArray.deps.json
+/Users/romanas/Desktop/examples/Example010_MethodArray/bin/Debug/net9.0/Example010_MethodArray.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example010_MethodArray/bin/Debug/net9.0/Example010_MethodArray.dll
+/Users/romanas/Desktop/examples/Example010_MethodArray/bin/Debug/net9.0/Example010_MethodArray.pdb
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.dll
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/refint/Example010_MethodArray.dll
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.pdb
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/Example010_MethodArray.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example010_MethodArray/obj/Debug/net9.0/ref/Example010_MethodArray.dll
