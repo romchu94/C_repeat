@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.sourcelink.json
+/Users/romanas/Desktop/examples/Example005_ifElse/bin/Debug/net9.0/Example005_ifElse
+/Users/romanas/Desktop/examples/Example005_ifElse/bin/Debug/net9.0/Example005_ifElse.deps.json
+/Users/romanas/Desktop/examples/Example005_ifElse/bin/Debug/net9.0/Example005_ifElse.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example005_ifElse/bin/Debug/net9.0/Example005_ifElse.dll
+/Users/romanas/Desktop/examples/Example005_ifElse/bin/Debug/net9.0/Example005_ifElse.pdb
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.dll
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/refint/Example005_ifElse.dll
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.pdb
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/Example005_ifElse.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example005_ifElse/obj/Debug/net9.0/ref/Example005_ifElse.dll
