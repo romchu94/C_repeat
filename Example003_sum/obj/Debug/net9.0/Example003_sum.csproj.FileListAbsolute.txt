@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example003_sum/bin/Debug/net9.0/Example003_sum
+/Users/romanas/Desktop/examples/Example003_sum/bin/Debug/net9.0/Example003_sum.deps.json
+/Users/romanas/Desktop/examples/Example003_sum/bin/Debug/net9.0/Example003_sum.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example003_sum/bin/Debug/net9.0/Example003_sum.dll
+/Users/romanas/Desktop/examples/Example003_sum/bin/Debug/net9.0/Example003_sum.pdb
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.sourcelink.json
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.dll
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/refint/Example003_sum.dll
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.pdb
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/Example003_sum.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example003_sum/obj/Debug/net9.0/ref/Example003_sum.dll
