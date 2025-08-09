@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example009_IntroArray/bin/Debug/net9.0/Example009_IntroArray
+/Users/romanas/Desktop/examples/Example009_IntroArray/bin/Debug/net9.0/Example009_IntroArray.deps.json
+/Users/romanas/Desktop/examples/Example009_IntroArray/bin/Debug/net9.0/Example009_IntroArray.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example009_IntroArray/bin/Debug/net9.0/Example009_IntroArray.dll
+/Users/romanas/Desktop/examples/Example009_IntroArray/bin/Debug/net9.0/Example009_IntroArray.pdb
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.sourcelink.json
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.dll
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/refint/Example009_IntroArray.dll
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.pdb
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/Example009_IntroArray.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example009_IntroArray/obj/Debug/net9.0/ref/Example009_IntroArray.dll
