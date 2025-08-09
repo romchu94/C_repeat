@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.sourcelink.json
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net9.0/Example011_ArrayLibrary
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net9.0/Example011_ArrayLibrary.deps.json
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net9.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net9.0/Example011_ArrayLibrary.dll
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/bin/Debug/net9.0/Example011_ArrayLibrary.pdb
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.dll
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/refint/Example011_ArrayLibrary.dll
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.pdb
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example011_ArrayLibrary/obj/Debug/net9.0/ref/Example011_ArrayLibrary.dll
