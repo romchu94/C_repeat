@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example007_while/bin/Debug/net9.0/Example007_while
+/Users/romanas/Desktop/examples/Example007_while/bin/Debug/net9.0/Example007_while.deps.json
+/Users/romanas/Desktop/examples/Example007_while/bin/Debug/net9.0/Example007_while.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example007_while/bin/Debug/net9.0/Example007_while.dll
+/Users/romanas/Desktop/examples/Example007_while/bin/Debug/net9.0/Example007_while.pdb
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.sourcelink.json
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.dll
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/refint/Example007_while.dll
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.pdb
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/Example007_while.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example007_while/obj/Debug/net9.0/ref/Example007_while.dll
