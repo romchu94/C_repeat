@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Task2_SortMassiv/bin/Debug/net9.0/Task2_SortMassiv
+/Users/romanas/Desktop/examples/Task2_SortMassiv/bin/Debug/net9.0/Task2_SortMassiv.deps.json
+/Users/romanas/Desktop/examples/Task2_SortMassiv/bin/Debug/net9.0/Task2_SortMassiv.runtimeconfig.json
+/Users/romanas/Desktop/examples/Task2_SortMassiv/bin/Debug/net9.0/Task2_SortMassiv.dll
+/Users/romanas/Desktop/examples/Task2_SortMassiv/bin/Debug/net9.0/Task2_SortMassiv.pdb
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.sourcelink.json
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.dll
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/refint/Task2_SortMassiv.dll
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.pdb
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/Task2_SortMassiv.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Task2_SortMassiv/obj/Debug/net9.0/ref/Task2_SortMassiv.dll
