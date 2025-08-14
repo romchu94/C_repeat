@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/bin/Debug/net9.0/Example013_RecursionAlgorithm
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/bin/Debug/net9.0/Example013_RecursionAlgorithm.deps.json
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/bin/Debug/net9.0/Example013_RecursionAlgorithm.runtimeconfig.json
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/bin/Debug/net9.0/Example013_RecursionAlgorithm.dll
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/bin/Debug/net9.0/Example013_RecursionAlgorithm.pdb
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.sourcelink.json
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.dll
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/refint/Example013_RecursionAlgorithm.dll
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.pdb
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/Example013_RecursionAlgorithm.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Example013_RecursionAlgorithm/obj/Debug/net9.0/ref/Example013_RecursionAlgorithm.dll
