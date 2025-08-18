@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.sourcelink.json
+/Users/romanas/Desktop/examples/Task3_Factorial/bin/Debug/net9.0/Task3_Factorial
+/Users/romanas/Desktop/examples/Task3_Factorial/bin/Debug/net9.0/Task3_Factorial.deps.json
+/Users/romanas/Desktop/examples/Task3_Factorial/bin/Debug/net9.0/Task3_Factorial.runtimeconfig.json
+/Users/romanas/Desktop/examples/Task3_Factorial/bin/Debug/net9.0/Task3_Factorial.dll
+/Users/romanas/Desktop/examples/Task3_Factorial/bin/Debug/net9.0/Task3_Factorial.pdb
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.dll
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/refint/Task3_Factorial.dll
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.pdb
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/Task3_Factorial.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Task3_Factorial/obj/Debug/net9.0/ref/Task3_Factorial.dll
