@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Task4_Fibonacci/bin/Debug/net9.0/Task4_Fibonacci
+/Users/romanas/Desktop/examples/Task4_Fibonacci/bin/Debug/net9.0/Task4_Fibonacci.deps.json
+/Users/romanas/Desktop/examples/Task4_Fibonacci/bin/Debug/net9.0/Task4_Fibonacci.runtimeconfig.json
+/Users/romanas/Desktop/examples/Task4_Fibonacci/bin/Debug/net9.0/Task4_Fibonacci.dll
+/Users/romanas/Desktop/examples/Task4_Fibonacci/bin/Debug/net9.0/Task4_Fibonacci.pdb
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.sourcelink.json
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.dll
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/refint/Task4_Fibonacci.dll
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.pdb
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/Task4_Fibonacci.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Task4_Fibonacci/obj/Debug/net9.0/ref/Task4_Fibonacci.dll
