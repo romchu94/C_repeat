@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/bin/Debug/net9.0/Task5_GetStringWithNumb
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/bin/Debug/net9.0/Task5_GetStringWithNumb.deps.json
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/bin/Debug/net9.0/Task5_GetStringWithNumb.runtimeconfig.json
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/bin/Debug/net9.0/Task5_GetStringWithNumb.dll
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/bin/Debug/net9.0/Task5_GetStringWithNumb.pdb
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.AssemblyInfo.cs
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.sourcelink.json
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.dll
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/refint/Task5_GetStringWithNumb.dll
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.pdb
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/Task5_GetStringWithNumb.genruntimeconfig.cache
+/Users/romanas/Desktop/examples/Task5_GetStringWithNumb/obj/Debug/net9.0/ref/Task5_GetStringWithNumb.dll
